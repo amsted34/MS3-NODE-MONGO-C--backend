@@ -1,0 +1,17 @@
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/mongoPerf2.exe
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/mongoPerf2.pdb
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/obj/x86/Debug/mongoPerf2.csprojAssemblyReference.cache
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/obj/x86/Debug/mongoPerf2.csproj.CoreCompileInputs.cache
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/obj/x86/Debug/mongoPerf2.exe
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/obj/x86/Debug/mongoPerf2.pdb
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/DnsClient.dll
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/MongoDB.Bson.dll
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/MongoDB.Driver.Core.dll
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/MongoDB.Driver.dll
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/System.Buffers.dll
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/MongoDB.Bson.xml
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/DnsClient.xml
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/MongoDB.Driver.Core.xml
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/bin/Debug/MongoDB.Driver.xml
+/Users/amineseddiki/projects/mongoPerf2/mongoPerf2/obj/x86/Debug/mongoPerf2.csproj.CopyComplete

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A8AF6787-3A5E-48AB-8B26-E1A1149D0289}|Default">
+  <MonoDevelop.Ide.ItemProperties.mongoPerf2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mongoPerf2/Program.cs">
+    <Files>
+      <File FileName="mongoPerf2/Program.cs" Line="43" Column="39" />
+      <File FileName="mongoPerf2/MS3LiveData.cs" Line="45" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mongoPerf2" expanded="True">
+            <Node name="mongoPerf2" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
